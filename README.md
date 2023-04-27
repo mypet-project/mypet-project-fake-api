@@ -3,7 +3,7 @@ MyPets Api Resquisições
 Endpoints
 
 Cadastro
-`POST /users`
+`POST http://localhost:3000/users`
 
 ```
  {
@@ -15,7 +15,7 @@ Cadastro
 ```
 
 Login
-`POST /users`
+`POST http://localhost:3000/users`
 
 ```
 "users":
@@ -28,7 +28,7 @@ Login
 ```  
 
 Usuários 
-`GET /users`
+`GET http://localhost:3000/users`
 
 ```
 "users": 
@@ -44,7 +44,7 @@ Usuários
 Informações dos pets
 
 PETS
-`GET /pets`
+`GET http://localhost:3000/pets`
 
 ```
 "pets": 
