@@ -36,33 +36,24 @@
     "users": [
         {
             "id": 1,
-            "name":"",
+            "name":"Fulano1",
             "email": "A1@mail.com",
             "password": "A1@mail.com",
-            "borndate": "25/08/92",
-            "following": []
+            "borndate": "25/08/92"            
         },
         {
             "id": 2,
-            "name":"",
+            "name":"Fulano2",
             "email": "A2@mail.com",
             "password": "A2@mail.com",
-            "borndate": "25/06/97",
-            "following": [
-                1,
-                3
-            ]
+            "borndate": "25/06/97"           
         },
         {
             "id": 3,
-            "name":"",
+            "name":"Fulano3",
             "email": "A3@mail.com",
             "password": "A3@mail.com",
-            "borndate": "04/01/95",
-            "following": [
-                1,
-                2
-            ]
+            "borndate": "04/01/95"            
         }
     ]
 }
