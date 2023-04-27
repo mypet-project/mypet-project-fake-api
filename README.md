@@ -3,30 +3,34 @@ MyPets Api Resquisições
 Endpoints
 
 Cadastro
-POST /users
+`POST /users`
 
+```
  {
-            "name":"Fulano1",
-            "email": "A1@mail.com",
-            "password": "A1@mail.com",
-            "borndate": "25/08/92",          
+   "name":"Fulano1",
+   "email": "A1@mail.com",
+   "password": "A1@mail.com",
+   "borndate": "25/08/92",          
  }
+```
 
 Login
-POST /users
+`POST /users`
 
+```
 "users":
         {
             "name":"Fulano1",
             "email": "A1@mail.com",
             "password": "A1@mail.com",
-            "borndate": "25/08/92",
-            
+            "borndate": "25/08/92",            
         }
+```  
 
 Usuários 
-GET /users
+`GET /users`
 
+```
 "users": 
         {
             "id": 1,
@@ -35,13 +39,14 @@ GET /users
             "password": "A1@mail.com",
             "borndate": "25/08/92",
         }
-       
+ ```      
 
 Informações dos pets
 
 PETS
-GET /pets
+`GET /pets`
 
+```
 "pets": 
 [
         {
@@ -61,3 +66,4 @@ GET /pets
             "adoption": "Sim"
         }
     ]
+```
