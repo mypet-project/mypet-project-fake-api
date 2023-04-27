@@ -1,0 +1,39 @@
+{
+    "pets": [
+        {
+            "id": 1,
+            "name": "Spitz alemão",
+            "img": "https://images.pexels.com/photos/8473518/pexels-photo-8473518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "category": "Cachorro",
+            "adoption": "Não disponivel"
+        },
+        {
+            "id": 2,
+            "name": "Husky siberiano",
+            "img": "https://imgur.com/L0wKu8G",
+            "category": "Cachorro",
+            "adoption": "Para adoção"
+        },
+        {
+            "id": 3,
+            "name": "Bergamasco",
+            "img": "https://misanimales.com/wp-content/uploads/2021/12/perro-bergamasco.jpg?auto=webp&quality=45&width=1920&crop=16:9,smart,safe",
+            "category": "Cachorro",
+            "adoption": "para adoção"
+        },
+        {
+            "id": 4,
+            "name": "Sem raça definida",
+            "img": "https://blog-static.petlove.com.br/wp-content/uploads/2021/08/Gato-preto-e-branco-petlove.jpg?_ga=2.159136761.2119040216.1682537783-170237143.1682537783",
+            "category": "Gato",
+            "adoption": "Não disponivel"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "email": "A1@mail.com",
+            "password": "A1@mail.com"
+        }
+    ]
+}
