@@ -3,7 +3,7 @@ MyPets Api Resquisições
 Endpoints
 
 Cadastro
-`POST http://localhost:3001/register`
+`POST https://mypet-project-fake-api.onrender.com/register`
 
 ```
  {
@@ -15,7 +15,7 @@ Cadastro
 ```
 
 Login
-`POST http://localhost:3001/login`
+`POST https://mypet-project-fake-api.onrender.com/login`
 
 ```
 "users":
@@ -26,7 +26,7 @@ Login
 ```  
 
 Usuários 
-`GET http://localhost:3001/users`
+`GET https://mypet-project-fake-api.onrender.com/users`
 
 ```
 "users": 
@@ -42,7 +42,7 @@ Usuários
 Informações dos pets
 
 PETS
-`GET http://localhost:3001/pets`
+`GET https://mypet-project-fake-api.onrender.com/pets`
 
 ```
 "pets": 
