@@ -3,7 +3,7 @@ MyPets Api Resquisições
 Endpoints
 
 Cadastro
-`POST http://localhost:3001/users`
+`POST http://localhost:3001/register`
 
 ```
  {
