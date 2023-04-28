@@ -20,8 +20,10 @@ Login
 ```
 "users":
         {
-            "name":"Fulano1",
-            "email": "A1@mail.com"            
+            "email": "A1@mail.com", 
+            "password":"A1@mail.com"
+            
+            
         }
 ```  
 
