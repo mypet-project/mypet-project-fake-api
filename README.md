@@ -15,15 +15,13 @@ Cadastro
 ```
 
 Login
-`POST http://localhost:3001/users`
+`POST http://localhost:3001/login`
 
 ```
 "users":
         {
             "name":"Fulano1",
-            "email": "A1@mail.com",
-            "password": "A1@mail.com",
-            "borndate": "25/08/92",            
+            "email": "A1@mail.com"            
         }
 ```  
 
