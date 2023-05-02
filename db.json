@@ -38,7 +38,6 @@
       "id": 1,
       "name": "Luluzinho da pomeraniazinha",
       "img": "https://images.pexels.com/photos/8473518/pexels-photo-8473518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "category": "Cachorro",
       "description": "oia q lindinhu meu luluzinho da pomeraniazinha",
       "adoption": "Não",
       "userId": 1
@@ -47,17 +46,15 @@
       "id": 2,
       "name": "Zeus",
       "img": "https://misanimales.com/wp-content/uploads/2019/10/husky-siberiano-corre-768x512.jpg?auto=webp&quality=45&width=1920&crop=16:9,smart,safe",
-      "category": "Cachorro",
       "description": "Ele gosta muito de brincar no gelo.",
       "adoption": "Sim",
-      "userId": 0
+      "userId": 1
       
     },
     {
       "id": 3,
       "name": "Floquinho",
       "img": "https://misanimales.com/wp-content/uploads/2021/12/perro-bergamasco.jpg?auto=webp&quality=45&width=1920&crop=16:9,smart,safe",
-      "category": "Cachorro",
       "description": "Esse cachorro é feio mas pode ser seu.",
       "adoption": "Sim",
       "userId": 0
@@ -66,7 +63,6 @@
       "id": 4,
       "name": "Gatito",
       "img": "https://blog-static.petlove.com.br/wp-content/uploads/2021/08/Gato-preto-e-branco-petlove.jpg?_ga=2.159136761.2119040216.1682537783-170237143.1682537783",
-      "category": "Gato",
       "description": "Esse gato eu achei na rua.",
       "adoption": "Não",
       "userId": 0
@@ -75,7 +71,6 @@
       "id": 5,
       "name": "Calopdoida",
       "img": "https://blog.cobasi.com.br/wp-content/webpc-passthru.php?src=https://blog.cobasi.com.br/wp-content/uploads/2021/02/calopsita-olhando-1024x768.jpg&nocache=1",
-      "category": "Ave",
       "description": "Estou doando, urgente pege esse mordedor de dedos",
       "adoption": "Sim",
       "userId": 0
@@ -84,7 +79,6 @@
       "id": 6,
       "name": "Baby Cat",
       "img": "https://s2.glbimg.com/CnFaB3ZGPAW9vdXXVjj7rGs3z2Q=/e.glbimg.com/og/ed/f/original/2021/12/04/post_from_pisco_cat_ry2ssv.jpg",
-      "category": "Gato",
       "description": "Esse gato é muito fofo, parece muito com o gato de botas do Shrek",
       "adoption": "Não",
       "userId": 1
