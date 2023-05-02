@@ -6,7 +6,8 @@
       "img": "https://images.pexels.com/photos/8473518/pexels-photo-8473518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "category": "Cachorro",
       "description": "oia q lindinhu meu luluzinho da pomeraniazinha",
-      "adoption": "Não"
+      "adoption": "Não",
+      "userId": 1
     },
     {
       "id": 2,
@@ -14,7 +15,9 @@
       "img": "https://misanimales.com/wp-content/uploads/2019/10/husky-siberiano-corre-768x512.jpg?auto=webp&quality=45&width=1920&crop=16:9,smart,safe",
       "category": "Cachorro",
       "description": "Ele gosta muito de brincar no gelo.",
-      "adoption": "Sim"
+      "adoption": "Sim",
+      "userId": 0
+      
     },
     {
       "id": 3,
@@ -22,7 +25,8 @@
       "img": "https://misanimales.com/wp-content/uploads/2021/12/perro-bergamasco.jpg?auto=webp&quality=45&width=1920&crop=16:9,smart,safe",
       "category": "Cachorro",
       "description": "Esse cachorro é feio mas pode ser seu.",
-      "adoption": "Sim"
+      "adoption": "Sim",
+      "userId": 0
     },
     {
       "id": 4,
@@ -30,7 +34,8 @@
       "img": "https://blog-static.petlove.com.br/wp-content/uploads/2021/08/Gato-preto-e-branco-petlove.jpg?_ga=2.159136761.2119040216.1682537783-170237143.1682537783",
       "category": "Gato",
       "description": "Esse gato eu achei na rua.",
-      "adoption": "Não"
+      "adoption": "Não",
+      "userId": 0
     },
     {
       "id": 5,
@@ -38,7 +43,8 @@
       "img": "https://blog.cobasi.com.br/wp-content/webpc-passthru.php?src=https://blog.cobasi.com.br/wp-content/uploads/2021/02/calopsita-olhando-1024x768.jpg&nocache=1",
       "category": "Ave",
       "description": "Estou doando, urgente pege esse mordedor de dedos",
-      "adoption": "Sim"
+      "adoption": "Sim",
+      "userId": 0
     },
     {
       "id": 6,
@@ -46,7 +52,8 @@
       "img": "https://s2.glbimg.com/CnFaB3ZGPAW9vdXXVjj7rGs3z2Q=/e.glbimg.com/og/ed/f/original/2021/12/04/post_from_pisco_cat_ry2ssv.jpg",
       "category": "Gato",
       "description": "Esse gato é muito fofo, parece muito com o gato de botas do Shrek",
-      "adoption": "Não"
+      "adoption": "Não",
+      "userId": 1
     }
   ],
   "users": [
@@ -54,7 +61,7 @@
       "id": 1,
       "name": "Fulano1",
       "email": "A1@mail.com",
-      "password": "A1@mail.com",
+      "password": "123456",
       "borndate": "25/08/92",
       "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
     },
@@ -62,7 +69,7 @@
       "id": 2,
       "name": "Fulano2",
       "email": "A2@mail.com",
-      "password": "A2@mail.com",
+      "password": "zxcvbn",
       "borndate": "25/06/97",
       "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
     },
@@ -70,7 +77,7 @@
       "id": 3,
       "name": "Fulano3",
       "email": "A3@mail.com",
-      "password": "A3@mail.com",
+      "password": "qwerty",
       "borndate": "04/01/95",
       "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
     }
