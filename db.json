@@ -2,10 +2,34 @@
   "users": [
     {
       "id": 1,
+      "name": "Fulano1",
       "email": "aluno@mail.com",
       "password": "$2a$10$umY7sqEVm0tTKeQO4G5fq.EjNfOfSnBrv0ztmzoFehZFdV39lU5ca",
-      "name": "Fulano1",
       "birthdate": "25/08/92",
+      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
+    },
+    {
+      "id": 2,
+      "name": "Fulano1",
+      "email": "A1@mail.com",
+      "password": "$2a$10$AwXyND3N6ncIJ.4ld50I/eKOglxshMbmbjCdIHd14u95xcNUuKJ1.",
+      "birthdate": "25/08/92",
+      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
+    },
+    {
+      "id": 3,
+      "name": "Fulano2",
+      "email": "A2@mail.com",
+      "password": "$2a$10$0WJ3hVpjILON7iWBhGCIae1NCK5j1z.nxuKC8jmlQoUdIYL/QCrFG",
+      "birthdate": "25/06/97",
+      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
+    },
+    {
+      "id": 4,
+      "name": "Fulano3",
+      "email": "A3@mail.com",
+      "password": "$2a$10$Mh.6K88DpjtkpDVHZPQ0z.GlBkQy4a2OcKlCxAczS47FylteIS.iu",
+      "birthdate": "04/01/95",
       "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
     }
   ],
