@@ -2,32 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Fulano1",
-      "email": "A1@mail.com",
-      "password": "123456",
-      "birthdate": "25/08/92",
-      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
-    },
-    {
-      "id": 2,
-      "name": "Fulano2",
-      "email": "A2@mail.com",
-      "password": "zxcvbn",
-      "birthdate": "25/06/97",
-      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
-    },
-    {
-      "id": 3,
-      "name": "Fulano3",
-      "email": "A3@mail.com",
-      "password": "qwerty",
-      "birthdate": "04/01/95",
-      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
-    },
-    {
       "email": "aluno@mail.com",
       "password": "$2a$10$umY7sqEVm0tTKeQO4G5fq.EjNfOfSnBrv0ztmzoFehZFdV39lU5ca",
-      "id": 4,
       "name": "Fulano1",
       "birthdate": "25/08/92",
       "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
