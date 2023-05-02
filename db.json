@@ -1,4 +1,30 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "name": "Fulano1",
+      "email": "A1@mail.com",
+      "password": "123456",
+      "birthdate": "25/08/92",
+      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
+    },
+    {
+      "id": 2,
+      "name": "Fulano2",
+      "email": "A2@mail.com",
+      "password": "zxcvbn",
+      "birthdate": "25/06/97",
+      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
+    },
+    {
+      "id": 3,
+      "name": "Fulano3",
+      "email": "A3@mail.com",
+      "password": "qwerty",
+      "birthdate": "04/01/95",
+      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
+    }
+  ],
   "pets": [
     {
       "id": 1,
@@ -54,32 +80,6 @@
       "description": "Esse gato é muito fofo, parece muito com o gato de botas do Shrek",
       "adoption": "Não",
       "userId": 1
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "Fulano1",
-      "email": "A1@mail.com",
-      "password": "123456",
-      "borndate": "25/08/92",
-      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
-    },
-    {
-      "id": 2,
-      "name": "Fulano2",
-      "email": "A2@mail.com",
-      "password": "zxcvbn",
-      "borndate": "25/06/97",
-      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
-    },
-    {
-      "id": 3,
-      "name": "Fulano3",
-      "email": "A3@mail.com",
-      "password": "qwerty",
-      "borndate": "04/01/95",
-      "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
     }
   ]
 }
