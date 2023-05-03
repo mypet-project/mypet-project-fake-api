@@ -12,7 +12,7 @@ app.db = router.db;
 const rules = auth.rewriter(
     {
         pets: 644,
-        users: 600,
+        users: 640,
     }
 );
 
