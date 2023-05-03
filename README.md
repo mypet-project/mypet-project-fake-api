@@ -41,6 +41,16 @@ Usuários
         }
  ```      
 
+Alteração de imagem do usuário 
+`PATCH https://mypet-project-fake-api.onrender.com/users/userId`
+
+```
+"users": 
+        {
+            "img":"https://images.pexels.com/photos/8473518/pexels-photo-8473518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+ ```    
+
 Informações dos pets
 
 PETS
